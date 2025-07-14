@@ -139,13 +139,13 @@ where year(date) in (2022, 2023);
 ### Pivot Table
 <img width="907" height="397" alt="Screenshot 2025-07-14 142758" src="https://github.com/user-attachments/assets/3a9c8088-9f7e-407b-814e-3e241f18bf81" />
 
-[click here to view](https://ibb.co/fd5nzdGv)
-
 ### Excel Dashboard
-[click here to view](https://ibb.co/wNYn03vy)
+<img width="546" height="413" alt="Screenshot 2025-06-19 184212" src="https://github.com/user-attachments/assets/77563e3d-4e73-48fc-9806-483d85687de9" />
+
 
 ### Power BI Dashboard
-[click here to view](https://ibb.co/S4xMYV2W)
+<img width="587" height="329" alt="Screenshot 2025-06-23 111750" src="https://github.com/user-attachments/assets/f7d923b0-5425-43e0-bcd9-000454de84f5" />
+
 
 
 
