@@ -135,7 +135,10 @@ where year(date) in (2022, 2023);
 
 ---
 
-## Visualization
+## Visualizations
+### Pivot Table
+[click here to view](https://ibb.co/fd5nzdGv)
+
 ### Excel Dashboard
 [click here to view](https://ibb.co/wNYn03vy)
 
