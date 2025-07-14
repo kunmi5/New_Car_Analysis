@@ -137,6 +137,8 @@ where year(date) in (2022, 2023);
 
 ## Visualizations
 ### Pivot Table
+<img width="907" height="397" alt="Screenshot 2025-07-14 142758" src="https://github.com/user-attachments/assets/3a9c8088-9f7e-407b-814e-3e241f18bf81" />
+
 [click here to view](https://ibb.co/fd5nzdGv)
 
 ### Excel Dashboard
